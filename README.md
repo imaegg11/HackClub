@@ -1,4 +1,4 @@
 # Hack Club Things
 ## Projects
-1. Coming Soon TM
+1. Snake Game In PyGame
 
